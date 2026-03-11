@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-arquitectura-mvc",
+  "version": "1.0.0",
+  "description": "SPRINT 1 - TP 4",
+  "homepage": "https://github.com/marcos-batallan/proyecto-arquitectura-MVC#readme",
+  "bugs": {
+    "url": "https://github.com/marcos-batallan/proyecto-arquitectura-MVC/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-batallan/proyecto-arquitectura-MVC.git"
+  },
+  "license": "ISC",
+  "author": "Marcos Batallan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
